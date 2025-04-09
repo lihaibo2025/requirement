@@ -1,1 +1,1 @@
-The GAMMA-J Web Store is a dataset within the PURE dataset(Ferrari et al. 2017). Other documents are redesigns of the Use Case Requirements document in the GAMMA-J Web Store dataset. and can be used as a comparative study for software requirements engineering.
+The GAMMA-J Web Store is a dataset within the PURE dataset(Ferrari et al. 2017). Other documents are redesigns of the Use Case Requirements document in the GAMMA-J Web Store dataset, and can be used as a comparative study for software requirements engineering.
